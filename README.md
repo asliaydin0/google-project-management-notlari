@@ -14,7 +14,7 @@ Bu depo, **Yapay Zeka ve Teknoloji Akademisi** kapsamında Google ve Coursera i�
 |----------|--------|----------------|
 | 01 | [Foundations of Project Management](01_foundations_of_pm.md) | ✅ Tamamlandı |
 | 02 | [Project Initiation: Starting a Successful Project](02_project_initiation.md) | ✅ Tamamlandı |
-| 03 | [Project Planning: Putting It All Together](03_project_planning.md) |  |
+| 03 | [Project Planning: Putting It All Together](03_project_planning.md) | ✅ Tamamlandı |
 | 04 | [Project Execution: Running the Project](04_execution.md) |  |
 | 05 | [Agile Project Management](05_agile_pm.md) |  |
 | 06 | [Capstone: Applying Project Management in the Real World](06_capstone.md) |  |
